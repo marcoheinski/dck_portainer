@@ -10,7 +10,7 @@
 
  Tarefas
 
- - [ ] Tarefa
+ - [X] Tarefa
  - [ ] Destarefa
  - [ ] Corefa
  - [ ] Larefa
