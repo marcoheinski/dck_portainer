@@ -6,3 +6,11 @@
 * Alemanha
   * Ocidental
   * Oriental
+
+
+ Tarefas
+
+ - [] Tarefa
+ - [] Destarefa
+ - [] Corefa
+ - [] Larefa
